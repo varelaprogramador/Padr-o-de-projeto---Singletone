@@ -30,7 +30,7 @@ public class Rota {
 			instance=new Rota(nameAviator);
 		
 		}else {
-			// esteja exibo esta mensagem;
+			// caso esteja exibo esta mensagem;
 			System.out.printf("\n"+"Não foi possivel colocar o aviao "+nameAviator+" na rota!! "+"\n"+"A rota esta ocupada"+"....");
 		
 		}
